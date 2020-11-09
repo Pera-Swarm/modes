@@ -1,0 +1,36 @@
+{
+  "name": "@peraswarm/modes",
+  "version": "1.0.0",
+  "description": "Mode configuration module for swarm operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pera-Swarm/modes.git"
+  },
+  "keywords": [
+    "Pera-Swarm",
+    "Swarm",
+    "Robotics",
+    "Virtual",
+    "Robotics",
+    "Swarm",
+    "Robotics",
+    "Controller",
+    "Modes"
+  ],
+  "author": "Pera-Swarm",
+  "license": "LGPL-2.1",
+  "bugs": {
+    "url": "https://github.com/Pera-Swarm/modes/issues"
+  },
+  "homepage": "https://github.com/Pera-Swarm/modes#readme",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
