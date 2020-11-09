@@ -1,5 +1,5 @@
 {
-  "name": "@peraswarm/modes",
+  "name": "@pera-swarm/modes",
   "version": "1.0.0",
   "description": "Mode configuration module for swarm operations",
   "main": "index.js",
