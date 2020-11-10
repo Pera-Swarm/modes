@@ -4,11 +4,13 @@
 [![GitHub issues](https://img.shields.io/github/issues/Pera-Swarm/modes)](https://github.com/Pera-Swarm/modes/issues)
 
 # Install
+
 ```
 $npm install --save @pera-swarm/modes
 ```
 
 # Usage
+
 ```
 const { Mode } = require('@pera-swarm/modes');
 
