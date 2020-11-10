@@ -1,8 +1,4 @@
-# @pera-swarm/modes
-
-[![npm (scoped)](https://img.shields.io/npm/v/@pera-swarm/modes.svg)](https://github.com/Pera-Swarm/modes/)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Pera-Swarm/modes/%F0%9F%9A%80%20Release)
-[![GitHub issues](https://img.shields.io/github/issues/Pera-Swarm/modes)](https://github.com/Pera-Swarm/modes/issues)
+# @pera-swarm/modes [![npm (scoped)](https://img.shields.io/npm/v/@pera-swarm/modes.svg)](https://github.com/Pera-Swarm/modes/) [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Pera-Swarm/modes/%F0%9F%9A%80%20Release)](https://github.com/Pera-Swarm/modes/releases) [![GitHub issues](https://img.shields.io/github/issues/Pera-Swarm/modes)](https://github.com/Pera-Swarm/modes/issues)
 
 # Install
 
